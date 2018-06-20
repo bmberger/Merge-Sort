@@ -3,6 +3,9 @@ Using a list of movies you own or wish to see, sort them based on title, year cr
 
 
 AUTHOR: Briana Berger
+
 DATE: 4/09/2018
+
 WHAT I LEARNED: I learned how to use merge sorting to order things by year, title, and studio through ascending order.
+
 WHAT I ENJOYED: I loved using the sorting in an applicative manner and being able to see all the different orderings. 
